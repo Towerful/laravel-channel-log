@@ -18,7 +18,7 @@ class LogServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('l-j/log');
+		$this->package('towerful/log');
 		$this->app['log']->init();//init stream handler
 	}
 
