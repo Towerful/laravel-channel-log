@@ -1,5 +1,5 @@
 {
-    "name": "l-j/log",
+    "name": "Towerful/log",
     "description": "Laravel log",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "LJ\\Log\\": "src/"
+            "Towerful\\Log\\": "src/"
         }
     },
     "minimum-stability": "stable"
