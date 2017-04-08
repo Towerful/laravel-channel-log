@@ -1,4 +1,4 @@
-<?php namespace LJ\Log;
+<?php namespace Towerful\Log;
 
 use Illuminate\Support\ServiceProvider;
 use Monolog\Logger;
