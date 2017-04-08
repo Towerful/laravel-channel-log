@@ -1,5 +1,5 @@
 <?php
-namespace LJ\Log\Facades;
+namespace Towerful\Log\Facades;
 
 use Illuminate\Support\Facades\Facade;
 class Log extends Facade
